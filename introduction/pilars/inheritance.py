@@ -23,9 +23,11 @@ class Cat(Animal):
         return "Meow Meow!"
 
 # Instantiate objects of the derived classes
+# The Dog and Cat classes inherit the name attribute from the Animal class, but they can also have their own name attribute.
 dog = Dog("Gruu")
 cat = Cat("Ivy")
 
+# Notice how the Dog and Cat classes inherit the speak method from the Animal class, but they can also override it with their own implementation.
 print(f"{dog.name} says: {dog.speak()}")
 print(f"{cat.name} says: {cat.speak()}")
 
