@@ -1,4 +1,6 @@
 #Great article about classes: https://realpython.com/python3-object-oriented-programming/
+# Python Classes: The Power of Object-Oriented Programming: https://realpython.com/python-classes/#defining-a-class-in-python
+
 
 # Object-oriented programming is a programming paradigm that provides a means 
 # of structuring programs so that properties and behaviors are bundled into individual objects.
