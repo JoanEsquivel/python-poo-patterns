@@ -1,0 +1,1 @@
+# https://dev.to/m__mdy__m/understanding-abstraction-in-oop-1abp
