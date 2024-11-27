@@ -48,5 +48,7 @@ print(f"employee_2.raise_amount: {employee_2.raise_amount}")
 # Using the static method to check if a day is a workday
 import datetime
 my_date = datetime.date(2024, 11, 28)
+# The is_workday method is not bound to any instance or class.
+# It is just a regular function that is related to the class.
 print(Employee.is_workday(my_date))
 
