@@ -34,3 +34,6 @@ Membership operators
 
 https://www.youtube.com/watch?v=l8mWvDUwOt4
 list comprehensions
+
+Post this talk somewhere in the repo, it is awesome:
+https://www.youtube.com/watch?v=HTLu2DFOdTg
