@@ -1,0 +1,5 @@
+https://programming-21.mooc.fi/part-12
+Function as arguments
+Generators
+Functional programming
+Regular expressions
