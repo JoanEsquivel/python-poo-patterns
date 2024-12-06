@@ -3,3 +3,31 @@ Function as arguments
 Generators
 Functional programming
 Regular expressions
+
+https://www.youtube.com/watch?v=Qe03kCuTMoU
+duck typing
+
+
+https://www.youtube.com/watch?v=caXOUnQkD1o
+Agregation
+
+https://www.youtube.com/watch?v=TPUdUkFHD5I
+Composition
+
+https://www.youtube.com/watch?v=V_NXT2-QIlE
+Exceptions
+
+https://www.youtube.com/watch?v=IljPHDyBRog
+Lambda functions
+
+https://www.youtube.com/watch?v=STEOavXqXkQ
+Multithreading
+
+https://www.youtube.com/watch?v=U-G-mSd4KAE
+Decorators
+
+https://www.youtube.com/watch?v=VL_g3LjsFqs
+Iterables
+
+https://www.youtube.com/watch?v=OJ5E7VLsZQM
+Membership operators
